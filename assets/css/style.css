@@ -1,8 +1,37 @@
-h1 {
-	background:teal;
+.name {
+	background:#4aaaa5;
+	padding:30px;
 	color:white;
+	float: left;
+	left:60px;
+	margin:20px;
+}
+
+.about {
+	float:right;
+	margin-right:250px;
+	
+}
+
+.portfolio {
+	float:right;
+	margin-right:20px;
+}
+
+.contact {
+	float:right;
+	margin-right:20px;
+}
+
+.aboutme {
+	clear:both;
 }
 
 .mypic {
+	clear:both;
 	width:400px;
+}
+
+.boldH {
+	font-size:30px;
 }
